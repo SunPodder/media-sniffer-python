@@ -20,3 +20,6 @@ receiver = "receiver email"
 Check receiver's mail inbox. If not found please check the spam folder also.
 
 I have used the path for Android devices. Change the value of **PATH** variable as your **Target OS**.
+```
+PATH = "/storage/emulated/0"
+```
